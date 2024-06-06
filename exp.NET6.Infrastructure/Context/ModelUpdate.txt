@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext -Connection "Data Source=10.10.141.27;Initial Catalog=PracticaOnlineShopDB;Persist Security Info=True;TrustServerCertificate=True;User ID=svc-sqladmin;Password=N0F0rg3t" Microsoft.EntityFrameworkCore.SqlServer -ContextDir Context -OutputDir Models -force
